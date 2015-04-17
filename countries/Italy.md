@@ -3,7 +3,7 @@
 61,070,000 (as of July 2014)
 
 ## capital
-Roma
+Roma (Rome)
  
 ## official language
 Italian
